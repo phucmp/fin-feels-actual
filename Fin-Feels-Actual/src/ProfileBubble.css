@@ -1,0 +1,12 @@
+.profile {
+	display: inline-block;
+	margin: 40px;
+}
+
+.profile span {
+	display: block;
+	margin-top: 15%;
+	font-family: Montserrat;
+	font-size: 16px;
+	letter-spacing: 1px;
+}
